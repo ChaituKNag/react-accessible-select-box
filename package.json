@@ -1,6 +1,6 @@
 {
   "name": "react-accessible-select-box",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom dropdown implementation in React that is fully accessible.",
   "author": "ChaituKNag",
   "license": "MIT",
